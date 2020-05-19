@@ -1,0 +1,6 @@
+C:\Users\thiago.novaes\Desktop\Thiago\Programing\Homework - String\MesmoComprimento\bin\Debug\MesmoComprimento.exe.config
+C:\Users\thiago.novaes\Desktop\Thiago\Programing\Homework - String\MesmoComprimento\bin\Debug\MesmoComprimento.exe
+C:\Users\thiago.novaes\Desktop\Thiago\Programing\Homework - String\MesmoComprimento\bin\Debug\MesmoComprimento.pdb
+C:\Users\thiago.novaes\Desktop\Thiago\Programing\Homework - String\MesmoComprimento\obj\Debug\MesmoComprimento.csprojAssemblyReference.cache
+C:\Users\thiago.novaes\Desktop\Thiago\Programing\Homework - String\MesmoComprimento\obj\Debug\MesmoComprimento.exe
+C:\Users\thiago.novaes\Desktop\Thiago\Programing\Homework - String\MesmoComprimento\obj\Debug\MesmoComprimento.pdb
