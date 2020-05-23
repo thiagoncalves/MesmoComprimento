@@ -32,17 +32,26 @@ namespace MesmoComprimento
             Console.WriteLine("Tamanho de '" + nome1 + "': " + tamanhonome1);
             Console.WriteLine("Tamanho de '" + nome2 + "': " + tamanhonome2 + "\n");
 
-            if (tamanhonome1 == tamanhonome2)
-                Console.WriteLine("Os dois textos têm tamanhos iguais");
-            else
-                Console.WriteLine("Os dois textos têm tamanhos diferentes");
+            NomesIguais(nome1, nome2);
+            TamanhosIguais(tamanhonome1, tamanhonome2);
 
+            Console.ReadLine();
+        }
+
+        public static void NomesIguais (string nome1, string nome2)
+        {
             if (nome1 == nome2)
                 Console.WriteLine("Os dois textos possuem conteúdo iguais");
             else
                 Console.WriteLine("Os dois textos possuem conteúdo diferentes");
+        }
 
-            Console.ReadLine();
+        public static void TamanhosIguais(int tam1, int tam2)
+        {
+            if (tam1 == tam2)
+                Console.WriteLine("Os dois textos possuem tamanhos iguais");
+            else
+                Console.WriteLine("Os dois textos possuem tamanhos diferentes");
         }
     }
 }
